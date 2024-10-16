@@ -14,14 +14,16 @@ FetchStow is a CLI tool that allows you to fetch data from an API and store it i
 To install FetchStow, you can use npm:
 
 ```bash
-npm install -g fetchstow
+git clone https://github.com/Muhammadhassan1226/fetchstow.git
+cd fetchstow
+npm i 
 ```
 
 # Usage
 
 You can run FetchStow using the command line. The basic syntax is as follows:
 ```bash
-fetchstow <apiUrl> <filename>
+npm run start <apiUrl> <filename>
 ```
 Parameters
 <apiUrl>: The URL of the API you want to fetch data from.
@@ -29,8 +31,9 @@ Parameters
 
 # Example
 
-fetchstow https://jsonplaceholder.typicode.com/todos/1 output.json
+npm run start https://jsonplaceholder.typicode.com/todos/1 output.json
 
 # Contributing
 
 Contributions are welcome! If you'd like to contribute, please fork the repository and submit a pull request. For any issues, please open an issue in the repository.
+
