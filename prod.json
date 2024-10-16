@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "Clothes",
+    "image": "https://i.imgur.com/QkIa5tT.jpeg",
+    "creationAt": "2024-10-15T23:07:40.000Z",
+    "updatedAt": "2024-10-15T23:07:40.000Z"
+  },
+  {
+    "id": 2,
+    "name": "Electronics",
+    "image": "https://i.imgur.com/ZANVnHE.jpeg",
+    "creationAt": "2024-10-15T23:07:40.000Z",
+    "updatedAt": "2024-10-15T23:07:40.000Z"
+  },
+  {
+    "id": 3,
+    "name": "Un nuevo nombre",
+    "image": "https://i.imgur.com/Qphac99.jpeg",
+    "creationAt": "2024-10-15T23:07:40.000Z",
+    "updatedAt": "2024-10-16T03:33:44.000Z"
+  },
+  {
+    "id": 4,
+    "name": "Shoes",
+    "image": "https://i.imgur.com/qNOjJje.jpeg",
+    "creationAt": "2024-10-15T23:07:40.000Z",
+    "updatedAt": "2024-10-15T23:07:40.000Z"
+  },
+  {
+    "id": 5,
+    "name": "Miscellaneous",
+    "image": "https://i.imgur.com/BG8J0Fj.jpg",
+    "creationAt": "2024-10-15T23:07:40.000Z",
+    "updatedAt": "2024-10-15T23:07:40.000Z"
+  },
+  {
+    "id": 16,
+    "name": "Tools",
+    "image": "https://picsum.photos/seed/VhWDV/640/480",
+    "creationAt": "2024-10-16T02:06:18.000Z",
+    "updatedAt": "2024-10-16T02:06:18.000Z"
+  }
+]
